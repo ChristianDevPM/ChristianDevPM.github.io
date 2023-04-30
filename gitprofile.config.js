@@ -64,16 +64,16 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
+      institution: 'East Carolina University',
       degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      from: '2021',
+      to: 'Current',
     },
     {
-      institution: 'Institution Name',
+      institution: 'Anne Arundel Community College',
       degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      from: '1992',
+      to: '1994',
     },
   ],
 
