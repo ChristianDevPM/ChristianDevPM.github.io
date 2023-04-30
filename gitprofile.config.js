@@ -47,7 +47,7 @@ const config = {
       companyLink: 'https://www.yardi.com',
     },
     {
-      company: 'Rafter',
+      company: 'Rafter Inc',
       position: 'Programs Manager',
       from: 'January 2011',
       to: 'September 2013',
